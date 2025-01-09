@@ -7,4 +7,4 @@ Projeto  Node + Teypescript
 ## Instalçao
 `npm install`
 ## Para Rodar o Projeto
-`npm run star-dev`
+`npm run start-dev`
